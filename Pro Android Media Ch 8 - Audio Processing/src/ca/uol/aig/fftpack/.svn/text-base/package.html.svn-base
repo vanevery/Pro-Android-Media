@@ -1,0 +1,22 @@
+<body>
+
+<p>A Java translation of fftpack by Baoshe Zhang.</p>
+
+<p>jfftpack is a Java version of fftpack.  jfftpack is based
+on Paul N. Swarztraubre's Fortran code and Pekka Janhuen's
+C code.  It is developed as part of my official duties as
+lead software engineer for
+<a href="http://www.roe.ac.uk/ukatc/projects/scubatwo/">SCUBA-2 FTS projects</a>.</p>
+
+<p>The original fftpack was public domain, so jfftpack is
+public domain too. This software is in no way certified or 
+guaranteed.</p>
+
+<p>Please send any comments or bug reports to baoshe.zhang at
+uleth.ca or baoshe_zhang at hotmail.com.</p>
+
+<p>Notes:
+Please read the <a href="http://www.netlib.org/fftpack/doc">documents
+for FFT formula</p> if necessary.</p>
+
+</body>

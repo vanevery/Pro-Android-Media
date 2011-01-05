@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<ImageView android:id="@+id/ReturnedImageView" android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Title:" android:id="@+id/TitleTextView"></TextView><EditText android:layout_height="wrap_content" android:id="@+id/TitleEditText" android:layout_width="fill_parent"></EditText><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Description" android:id="@+id/DescriptionTextView"></TextView><EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/DescriptionEditText"></EditText><Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TakePictureButton" android:text="Take Picture"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/SaveDataButton" android:text="Save Data"></Button>
+</LinearLayout>

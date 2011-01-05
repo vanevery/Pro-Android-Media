@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+    <ImageView android:id="@+id/ImageView" android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+    <TextView android:text="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView"></TextView>
+</LinearLayout>

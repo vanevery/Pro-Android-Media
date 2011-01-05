@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack
+END
+RealDoubleFFT_Even_Odd.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/RealDoubleFFT_Even_Odd.java
+END
+ComplexDoubleFFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/ComplexDoubleFFT.java
+END
+RealDoubleFFT_Odd.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/RealDoubleFFT_Odd.java
+END
+RealDoubleFFT_Mixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/RealDoubleFFT_Mixed.java
+END
+ComplexDoubleFFT_Mixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/ComplexDoubleFFT_Mixed.java
+END
+RealDoubleFFT_Odd_Odd.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/RealDoubleFFT_Odd_Odd.java
+END
+RealDoubleFFT_Even.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/RealDoubleFFT_Even.java
+END
+Complex1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/Complex1D.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/package.html
+END
+RealDoubleFFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/727/trunk/HermitLibrary/src/ca/uol/aig/fftpack/RealDoubleFFT.java
+END
